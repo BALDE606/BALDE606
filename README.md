@@ -53,8 +53,6 @@ Linux → Bash → Networking → Python → Docker → Cybersecurity → Digita
 
 ---
 
-##  GitHub Analytics
-
 ## GitHub Analytics
 
 <div align="center">
