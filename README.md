@@ -80,9 +80,7 @@ Linux → Bash → Networking → Python → Docker → Cybersecurity → Digita
 </td>
 </tr>
 </table>
-
 </div>
-## Contact
 
 <div align="center">
 
