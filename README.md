@@ -55,6 +55,8 @@ Linux → Bash → Networking → Python → Docker → Cybersecurity → Digita
 
 ##  GitHub Analytics
 
+## GitHub Analytics
+
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BALDE606&theme=github_dark" />
@@ -63,15 +65,17 @@ Linux → Bash → Networking → Python → Docker → Cybersecurity → Digita
 
 <br>
 
-<table>
+<div align="center">
+
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BALDE606&theme=github_dark" />
 
 </td>
 
-<td width="50%">
+<td align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BALDE606&theme=github_dark&utcOffset=-6" />
 
@@ -79,13 +83,22 @@ Linux → Bash → Networking → Python → Docker → Cybersecurity → Digita
 </tr>
 </table>
 
----
-
-##  Contact
+</div>
+## Contact
 
 <div align="center">
 
-📧 **[baldedev606@gmail.com](mailto:baldedev606@gmail.com)**
+<a href="mailto:baldedev606@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+
+<a href="https://github.com/BALDE606">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+
+<a href="https://discord.com/users/1049859097568215051">
+<img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+</a>
 
 </div>
 
