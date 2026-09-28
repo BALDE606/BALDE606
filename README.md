@@ -28,17 +28,12 @@
 * 🐧 Learning Linux Administration and Bash
 * 🌐 Studying Networking Fundamentals
 * 🐍 Learning Python for Automation and Cybersecurity
-* 🐳 Exploring Docker and Containerization
-* 🔐 Interested in Cybersecurity and Digital Forensics
-* ☁️ Future goals: Cloud Computing, DevOps and Infrastructure
-* 📚 Building my knowledge through notes, labs and personal projects
-
 ---
 
 ##  Current Focus
 
 ```text
-Linux → Bash → Networking → Python → Docker → Cybersecurity → Digital Forensics → Cloud
+Linux → Bash → Networking → Python → Docker → Cybersecurity → Cloud
 ```
 
 ---
@@ -47,7 +42,7 @@ Linux → Bash → Networking → Python → Docker → Cybersecurity → Digita
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,docker,go,rust,vim,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,docker,vim,vscode" />
 
 </div>
 
