@@ -75,21 +75,7 @@ Linux → Bash → Networking → Python → Docker → Cybersecurity → Cloud
 </table>
 </div>
 
-<div align="center">
 
-<a href="mailto:baldedev606@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a>
-
-<a href="https://github.com/BALDE606">
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
-
-<a href="https://discord.com/users/1049859097568215051">
-<img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-</a>
-
-</div>
 
 
 <div align="center">
