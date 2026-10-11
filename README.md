@@ -6,8 +6,6 @@
 
 # Hi 👋, I'm Baldemar
 
-###  Linux •  Networking •  Cybersecurity
-
 ### 🎓 IT Student
 
 </div>
